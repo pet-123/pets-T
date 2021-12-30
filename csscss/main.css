@@ -42,7 +42,7 @@ input{vertical-align: middle;}
 
 
 #main_visual{margin: 0 auto; position:relative; }
-#main_visual li {height:800px; text-align: center; padding-top: 150px; box-sizing: border-box;position: absolute; left: 0; top: 150px;}
+#main_visual li {height:800px; text-align: center; padding-top: 150px; box-sizing: border-box;position: absolute; left: 0; top: 50%;}
 
 #main_visual .mv1{background: url(../main/main_img_top.png)no-repeat center top;}
 #main_visual .mv2{background: url(../main/main_img_top2.png)no-repeat center top;}
